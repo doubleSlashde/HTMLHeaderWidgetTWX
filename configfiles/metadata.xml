@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Entities>
     <ExtensionPackages>
-        <ExtensionPackage dependsOn="" description="Widget can manipulate document headers favicon and title" minimumThingWorxVersion="8.0.0" name="HTMLHeaderWidget" packageVersion="1.0.17" buildNumber="" vendor="doubleSlash Net-Business GmbH"> 
+        <ExtensionPackage dependsOn="" description="Widget can manipulate document headers favicon and title. See https://github.com/doubleSlashde/HTMLHeaderWidgetTWX" minimumThingWorxVersion="8.0.0" name="HTMLHeaderWidget" packageVersion="0.0.1" buildNumber="" vendor="doubleSlash Net-Business GmbH"> 
         </ExtensionPackage>
     </ExtensionPackages>
     <Widgets>
